@@ -29,7 +29,7 @@ The goal is to transform raw business data into meaningful insights that can hel
 ## 📁 Project Files
 
 - `IT_Services_Business_Analytics.pdf` — Project report
-- `IT_Services_Business_Analytics.ipynb`
+IT_Services_Business_Analytics.ipynb — Python analysis notebook
 
 ## 🎯 Objective
 
